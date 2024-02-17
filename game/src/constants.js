@@ -10,4 +10,3 @@ const greetings = [
   "Prepare for liftoff!",
   "Ready to soar!",
 ];
-
